@@ -1,4 +1,14 @@
 AIC-based problem articulation research paper 
+The Exploratory Problem Analysis Process outlined is a structured approach for understanding and addressing problems within a complex system. This process involves:
+
+1. Characterizing the problem and identifying influential factors or features using a TaskCoT (Chain-of-Thought) derived from a general predictive thinking framework.
+2. Identifying random interactions within the system that appear without a clear purpose, and defining observed systems and their actions with a clear purpose.
+3. Determining the primary purpose of each system's actions, which is to master or govern certain characteristics to enhance survival, utility, or viability.
+4. Predicting auxiliary relationships that influence, control, or require appreciation of other systems or behaviors to achieve the primary purpose.
+5. Analyzing factors and challenges within the problem domain to identify the most influential elements and potential sources of emergent issues.
+
+This process is applied iteratively to develop a comprehensive understanding of the problem domain, guiding the decision-making towards effective solutions.
+
 AIC-based Predictive Trustworthy Intelligent Systems Problem Articulation
 AVOIDS: Aircraft Vision-based Intruder Detection System
 Version 3, 06/02/2024
