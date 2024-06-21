@@ -11,7 +11,7 @@ This process is applied iteratively to develop a comprehensive understanding of 
 
 AIC-based Predictive Trustworthy Intelligent Systems Problem Articulation
 AVOIDS: Aircraft Vision-based Intruder Detection System
-Version 3, 06/02/2024
+Version 3, 19/06/2024
 Architect: Haider Al-Shareefy
 Organization: University of Southampton
 Contents
