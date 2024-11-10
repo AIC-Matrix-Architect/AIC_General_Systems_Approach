@@ -1,3 +1,5 @@
+To view the files, download the html files directly from the repository and open the downloaded file using any web browser.
+
 AIC-based problem articulation research paper 
 The Exploratory Problem Analysis Process outlined is a structured approach for understanding and addressing problems within a complex system. This process involves:
 
